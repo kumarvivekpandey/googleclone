@@ -35,7 +35,7 @@ export default function Home(){
            alt="error" className="Logog"/>
 
         <div className="home__inputContainer">
-               <Search  />
+               <Search  hideButtons />
         </div>
         
          <div>
